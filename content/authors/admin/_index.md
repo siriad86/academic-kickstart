@@ -18,12 +18,13 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: test
+bio: I am a Senior Researcher at the Peace Research Institute Oslo (PRIO).  Prior to this, I was a Postdoctoral Fellow at the Belfer Center, Harvard Kennedy School and a Postdoctoral Fellow at the  Varieties of Democracy Institute (V-Dem). I have also been a research fellow associated with the project Disentangling the Economic Effects of Political Institutions (DEEPI) at the University of Oslo. 
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Democratization and autocratization
+- Mass attitudes
+- Nonviolent and violent mobilization
+- Quantitative methods
 
 education:
   courses:
