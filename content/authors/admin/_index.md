@@ -71,4 +71,6 @@ user_groups:
 - Visitors
 ---
 
-I am a Senior Researcher at the Peace Research Institute Oslo (PRIO).  Prior to this, I was a Postdoctoral Fellow at the Belfer Center, Harvard Kennedy School and a Postdoctoral Fellow at the  Varieties of Democracy Institute (V-Dem). I have also been a research fellow associated with the project Disentangling the Economic Effects of Political Institutions (DEEPI) at the University of Oslo. 
+I am a Senior Researcher at the Peace Research Institute Oslo (PRIO).  Prior to this, I was a Postdoctoral Fellow at the Belfer Center, Harvard Kennedy School and a Postdoctoral Fellow at the  Varieties of Democracy Institute (V-Dem). Much of my research explores why and when citizens develop preferences for democracy and dictatorship, and when they will challenge political leaders and regimes through actions such as nonviolent and violent mass protest. One recurrent theme in my published work is how education influences citizens' political preferences and participation in mass protest.
+
+My work is featured in journals such as Journal of Politics, Comparative Political Studies, British Journal of Political Science, World Development and Journal of Conflict Resolution, and outlets such as the Washington Post's Monkey Cage Blog and BBC News. 
