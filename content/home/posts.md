@@ -32,15 +32,13 @@ Dahlum, Sirianne and Carl Henrik Knutsen (2017). "What Counts as Evidence? Panel
 
 Dahlum, Sirianne and Carl Henrik Knutsen (2017). "Democracy by demand? Reinvestigating the effect of self-expression values on political regime type",  *British Journal of Political Science*. 47(2): 437-461.
 
-<br />
-<br />
+
 
 #### PhD Thesis
 
 Dahlum, Sirianne (2019). Schooling for dissent? Education, autocratic regime instability and transitions to democracy.
 
-<br />
-<br />
+
 
 #### Reports and commissioned research
 
