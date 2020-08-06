@@ -27,9 +27,9 @@ Journal articles
 
 
 
-1. 2020. Dahlum, Sirianne and Wig, Tore. Peace above the glass ceiling: Historical female empowerment and civil conflict, 1800-2017. Forthcoming in International Studies Quarterly.
+2020. Dahlum, Sirianne and Wig, Tore. Peace above the glass ceiling: Historical female empowerment and civil conflict, 1800-2017. Forthcoming in International Studies Quarterly.
 
-2. 2020. Dahlum, Sirianne and Wig, Tore. Chaos on Campus. Universities and mass political protest. Forthcoming in Comparative Political Studies.
+2020. Dahlum, Sirianne and Wig, Tore. Chaos on Campus. Universities and mass political protest. Forthcoming in Comparative Political Studies.
 
 2019. Dahlum, Sirianne, Carl Henrik Knutsen and Tore Wig. "Who Revolts? Empirically Revisiting the Social Origins of Democracy". Forthcoming in Journal of Politics. 
 
