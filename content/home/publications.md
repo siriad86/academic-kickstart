@@ -16,7 +16,8 @@ subtitle = ""
 
 
 
-
+3. Dahlum, Sirianne. 2018. ["Students in the streets"](https://www.prio.org/Publications/Publication/?x=11095) *American Journal of Political Science* 62\(4\): 922-935.
+	* [Replication Materials](https://www.prio.org/Publications/Publication/?x=11095)
 
 
 
