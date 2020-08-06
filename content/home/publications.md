@@ -14,8 +14,6 @@ subtitle = ""
 
 #### Journal articles
 
-
-
 Dahlum, Sirianne and Wig, Tore (2020). Peace above the glass ceiling: Historical female empowerment and civil conflict, 1800-2017. Forthcoming in *International Studies Quarterly*.
 
 Dahlum, Sirianne and Wig, Tore (2020). Chaos on Campus. Universities and mass political protest. Forthcoming in *Comparative Political Studies*.
