@@ -11,7 +11,7 @@ weight = 30  # Order that this section will appear.
 title = "Publications"
 subtitle = ""
 
-1.test 
+1. test 
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
