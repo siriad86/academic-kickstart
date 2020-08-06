@@ -16,44 +16,44 @@ subtitle = ""
 
 
 
-2020. Dahlum, Sirianne and Wig, Tore. Peace above the glass ceiling: Historical female empowerment and civil conflict, 1800-2017. Forthcoming in *International Studies Quarterly*.
+Dahlum, Sirianne and Wig, Tore (2020). Peace above the glass ceiling: Historical female empowerment and civil conflict, 1800-2017. Forthcoming in *International Studies Quarterly*.
 
-2020. Dahlum, Sirianne and Wig, Tore. Chaos on Campus. Universities and mass political protest. Forthcoming in *Comparative Political Studies*.
+Dahlum, Sirianne and Wig, Tore (2020). Chaos on Campus. Universities and mass political protest. Forthcoming in *Comparative Political Studies*.
 
-2019. Dahlum, Sirianne, Carl Henrik Knutsen and Tore Wig. "Who Revolts? Empirically Revisiting the Social Origins of Democracy". Forthcoming in *Journal of Politics*. 
+Dahlum, Sirianne, Carl Henrik Knutsen and Tore Wig (2019). "Who Revolts? Empirically Revisiting the Social Origins of Democracy". Forthcoming in *Journal of Politics*. 
 
-2019. Dahlum, Sirianne. "Students in the streets: Education and nonviolent conflict", forthcoming in *Comparative Political Studies*. 
+Dahlum, Sirianne (2019). "Students in the streets: Education and nonviolent conflict", forthcoming in *Comparative Political Studies*. 
 
-2018. Lührmann, Anna, Valeriya Mechkova, Sirianne Dahlum, Laura Maxwell, Moa Ohlin, Constanza Sanhuza Petrarca, Rachel Sigman, Matthew Wilson and Staffan I. Lindberg. 2018. State of the World 2017: Autocratization and Exclusion? *Democratization. (open access)
+Lührmann, Anna, Valeriya Mechkova, Sirianne Dahlum, Laura Maxwell, Moa Ohlin, Constanza Sanhuza Petrarca, Rachel Sigman, Matthew Wilson and Staffan I. Lindberg (2018). State of the World 2017: Autocratization and Exclusion? *Democratization. (open access)
 
 2018. Dahlum, Sirianne and Carl Henrik Knutsen. "Do Democracies Provide Better Education? Revisiting the Democracy–Human Capital Link". *World Development* 94(1): 186-199 (link).
 
-2018. Dahlum, Sirianne and Tore Wig. “Educating Demonstrators: Education and Mass Protest in Africa”,  forthcoming in *Journal of Conflict Resolution*, DOI: 10.1177/0022002717721394. 
+Dahlum, Sirianne and Tore Wig (2018). “Educating Demonstrators: Education and Mass Protest in Africa”,  forthcoming in *Journal of Conflict Resolution*, DOI: 10.1177/0022002717721394. 
 
-2017. Dahlum, Sirianne and Carl Henrik Knutsen. "What Counts as Evidence? Panel Data and the Empirical Evaluation of Revised Modernization Theory",  *British Journal of Political Science*. 47(2): 473-478.
+Dahlum, Sirianne and Carl Henrik Knutsen (2017). "What Counts as Evidence? Panel Data and the Empirical Evaluation of Revised Modernization Theory",  *British Journal of Political Science*. 47(2): 473-478.
 
-2017. Dahlum, Sirianne and Carl Henrik Knutsen. "Democracy by demand? Reinvestigating the effect of self-expression values on political regime type",  *British Journal of Political Science*. 47(2): 437-461.
+Dahlum, Sirianne and Carl Henrik Knutsen (2017). "Democracy by demand? Reinvestigating the effect of self-expression values on political regime type",  *British Journal of Political Science*. 47(2): 437-461.
 
 
 #### PhD Thesis
 
-2018. Dahlum, Sirianne. Schooling for dissent? Education, autocratic regime instability and transitions to democracy.
+Dahlum, Sirianne (2019). Schooling for dissent? Education, autocratic regime instability and transitions to democracy.
 
 
 
 
 #### Reports and commissioned research
 
-2019. “The conflict - inequality trap? Linking internal armed conflict to horizontal inequality” (with Håvard Nygård, Siri Rustad and Gudrun Østby). Background paper for the UNDP Human Development Report 2019.
+The conflict - inequality trap? Linking internal armed conflict to horizontal inequality (with Håvard Nygård, Siri Rustad and Gudrun Østby). 2019. Background paper for the UNDP Human Development Report 2019.
 
-2018. V-Dem Annual Democracy Report 2018. Democracy Facing Global Challenges. (with Anna Lührmann,  Staffan I. Lindberg, Laura Maxwell, Valeriya Mechkova, Moa Olin, Shreeya Pillai, Constanza Sanhueza Petrarca, Rachel Sigman, Natalia Stepanova.) V-Dem Institute, University of Gothenburg.
+V-Dem Annual Democracy Report 2018. Democracy Facing Global Challenges (with Anna Lührmann,  Staffan I. Lindberg, Laura Maxwell, Valeriya Mechkova, Moa Olin, Shreeya Pillai, Constanza Sanhueza Petrarca, Rachel Sigman, Natalia Stepanova.) 2018. V-Dem Institute, University of Gothenburg.
 
-2018. “Does political inclusion and civil rights protection promote economic development?” (with Valeriya Mechkova). Research paper commissioned by USAID
+Does political inclusion and civil rights protection promote economic development? (with Valeriya Mechkova). 2018. Research paper commissioned by USAID
 
-2018. “Women’s Rights and Political Empowerment in Benin, Bolivia, Malawi and Morocco.”   (with Constanza Petrarcha and Moa Olin). Thematic Report. Series 2019:4. The Varieties of Democracies Institute. Paper prepared for the European Commission
+Women’s Rights and Political Empowerment in Benin, Bolivia, Malawi and Morocco  (with Constanza Petrarcha and Moa Olin). Thematic Report Series 2019:4. The Varieties of Democracies Institute. Paper prepared for the European Commission
 
-2018. Women in Politics and Good Governance (with Constanza Petrarcha). Researc hpaper commissioned by USAID. 
+Women in Politics and Good Governance (with Constanza Petrarcha). 2018. Research paper commissioned by USAID. 
 
-2018. "The economic costs of the shrinking civil space: Civil liberties and economic growth." (with Carl Henrik Knutsen and Staffan Lindberg). Research paper commissioned by global nonprofit initiative B-Team  
+The economic costs of the shrinking civil space: Civil liberties and economic growth (with Carl Henrik Knutsen and Staffan Lindberg). 2018. Research paper commissioned by the global nonprofit initiative B-Team  
 
 
