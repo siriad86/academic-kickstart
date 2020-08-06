@@ -11,7 +11,7 @@ weight = 30  # Order that this section will appear.
 title = "Publications"
 subtitle = ""
 
-test
+1. Test
 
 
 +++
