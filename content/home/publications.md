@@ -35,3 +35,25 @@ subtitle = ""
 2017. Dahlum, Sirianne and Carl Henrik Knutsen. "Democracy by demand? Reinvestigating the effect of self-expression values on political regime type",  *British Journal of Political Science*. 47(2): 437-461.
 
 
+#### PhD Thesis
+
+2018. Dahlum, Sirianne. Schooling for dissent? Education, autocratic regime instability and transitions to democracy.
+
+
+
+
+#### Reports and commissioned research
+
+2019. “The conflict - inequality trap? Linking internal armed conflict to horizontal inequality” (with Håvard Nygård, Siri Rustad and Gudrun Østby). Background paper for the UNDP Human Development Report 2019.
+
+2018. V-Dem Annual Democracy Report 2018. Democracy Facing Global Challenges. (with Anna Lührmann,  Staffan I. Lindberg, Laura Maxwell, Valeriya Mechkova, Moa Olin, Shreeya Pillai, Constanza Sanhueza Petrarca, Rachel Sigman, Natalia Stepanova.) V-Dem Institute, University of Gothenburg.
+
+2018. “Does political inclusion and civil rights protection promote economic development?” (with Valeriya Mechkova). Research paper commissioned by USAID
+
+2018. “Women’s Rights and Political Empowerment in Benin, Bolivia, Malawi and Morocco.”   (with Constanza Petrarcha and Moa Olin). Thematic Report. Series 2019:4. The Varieties of Democracies Institute. Paper prepared for the European Commission
+
+2018. Women in Politics and Good Governance (with Constanza Petrarcha). Researc hpaper commissioned by USAID. 
+
+2018. "The economic costs of the shrinking civil space: Civil liberties and economic growth." (with Carl Henrik Knutsen and Staffan Lindberg). Research paper commissioned by global nonprofit initiative B-Team  
+
+
