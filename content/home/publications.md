@@ -22,9 +22,9 @@ Dahlum, Sirianne, Carl Henrik Knutsen and Tore Wig (2019). "Who Revolts? Empiric
 
 Dahlum, Sirianne (2019). "Students in the streets: Education and nonviolent conflict", forthcoming in *Comparative Political Studies*. 
 
-Lührmann, Anna, Valeriya Mechkova, Sirianne Dahlum, Laura Maxwell, Moa Ohlin, Constanza Sanhuza Petrarca, Rachel Sigman, Matthew Wilson and Staffan I. Lindberg (2018). State of the World 2017: Autocratization and Exclusion? *Democratization. (open access)
+Lührmann, Anna, Valeriya Mechkova, Sirianne Dahlum, Laura Maxwell, Moa Ohlin, Constanza Sanhuza Petrarca, Rachel Sigman, Matthew Wilson and Staffan I. Lindberg (2018). State of the World 2017: Autocratization and Exclusion? *Democratization*. (open access)
 
-Dahlum, Sirianne and Carl Henrik Knutsen. "Do Democracies Provide Better Education? Revisiting the Democracy–Human Capital Link" (2018). *World Development* 94(1): 186-199 (link).
+Dahlum, Sirianne and Carl Henrik Knutsen. "Do Democracies Provide Better Education? Revisiting the Democracy–Human Capital Link" (2018). *World Development* 94(1): 186-199.
 
 Dahlum, Sirianne and Tore Wig (2018). “Educating Demonstrators: Education and Mass Protest in Africa”,  forthcoming in *Journal of Conflict Resolution*, DOI: 10.1177/0022002717721394. 
 
