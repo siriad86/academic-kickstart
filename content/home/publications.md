@@ -26,7 +26,7 @@ Dahlum, Sirianne (2019). "Students in the streets: Education and nonviolent conf
 
 Lührmann, Anna, Valeriya Mechkova, Sirianne Dahlum, Laura Maxwell, Moa Ohlin, Constanza Sanhuza Petrarca, Rachel Sigman, Matthew Wilson and Staffan I. Lindberg (2018). State of the World 2017: Autocratization and Exclusion? *Democratization. (open access)
 
-2018. Dahlum, Sirianne and Carl Henrik Knutsen. "Do Democracies Provide Better Education? Revisiting the Democracy–Human Capital Link". *World Development* 94(1): 186-199 (link).
+Dahlum, Sirianne and Carl Henrik Knutsen. "Do Democracies Provide Better Education? Revisiting the Democracy–Human Capital Link" (2018). *World Development* 94(1): 186-199 (link).
 
 Dahlum, Sirianne and Tore Wig (2018). “Educating Demonstrators: Education and Mass Protest in Africa”,  forthcoming in *Journal of Conflict Resolution*, DOI: 10.1177/0022002717721394. 
 
@@ -34,13 +34,15 @@ Dahlum, Sirianne and Carl Henrik Knutsen (2017). "What Counts as Evidence? Panel
 
 Dahlum, Sirianne and Carl Henrik Knutsen (2017). "Democracy by demand? Reinvestigating the effect of self-expression values on political regime type",  *British Journal of Political Science*. 47(2): 437-461.
 
+<br />
+<br />
 
 #### PhD Thesis
 
 Dahlum, Sirianne (2019). Schooling for dissent? Education, autocratic regime instability and transitions to democracy.
 
-
-
+<br />
+<br />
 
 #### Reports and commissioned research
 
