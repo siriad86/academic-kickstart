@@ -34,24 +34,4 @@ Dahlum, Sirianne and Carl Henrik Knutsen (2017). "Democracy by demand? Reinvest
 
 
 
-#### PhD Thesis
-
-Dahlum, Sirianne (2019). Schooling for dissent? Education, autocratic regime instability and transitions to democracy.
-
-
-
-#### Reports and commissioned research
-
-The conflict - inequality trap? Linking internal armed conflict to horizontal inequality (with Håvard Nygård, Siri Rustad and Gudrun Østby). 2019. Background paper for the UNDP Human Development Report 2019.
-
-V-Dem Annual Democracy Report 2018. Democracy Facing Global Challenges (with Anna Lührmann,  Staffan I. Lindberg, Laura Maxwell, Valeriya Mechkova, Moa Olin, Shreeya Pillai, Constanza Sanhueza Petrarca, Rachel Sigman, Natalia Stepanova.) 2018. V-Dem Institute, University of Gothenburg.
-
-Does political inclusion and civil rights protection promote economic development? (with Valeriya Mechkova). 2018. Research paper commissioned by USAID
-
-Women’s Rights and Political Empowerment in Benin, Bolivia, Malawi and Morocco  (with Constanza Petrarcha and Moa Olin). Thematic Report Series 2019:4. The Varieties of Democracies Institute. Paper prepared for the European Commission
-
-Women in Politics and Good Governance (with Constanza Petrarcha). 2018. Research paper commissioned by USAID. 
-
-The economic costs of the shrinking civil space: Civil liberties and economic growth (with Carl Henrik Knutsen and Staffan Lindberg). 2018. Research paper commissioned by the global nonprofit initiative B-Team  
-
 
