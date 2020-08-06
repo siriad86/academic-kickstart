@@ -13,8 +13,6 @@ title: Research
 
 #### Publications 
 
-1. Dahlum, Sirianne. 2018. ["Students in the streets"](https://www.prio.org/Publications/Publication/?x=11095) *Comparative Political Studies* 62\(4\): 922-935.
-	
 
 #### Under Review
 
