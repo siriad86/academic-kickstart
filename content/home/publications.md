@@ -15,8 +15,9 @@ subtitle = ""
 #### Journal articles
 
 Dahlum, S. and Wig, T. (2020). Peace above the glass ceiling: Historical female empowerment and civil conflict, 1800-2017. Forthcoming in *International Studies Quarterly*.
+* [Pre-print](https://www.dropbox.com/s/zrl4nfg7uctzzo4/GenderConflict_ISQ.pdf?dl=0)
 
-Dahlum, S. and Wig, T. (2020). Chaos on Campus. Universities and mass political protest. Forthcoming in *Comparative Political Studies*.
+Dahlum, S. and Wig, T. (2020). Chaos on Campus. [Universities and mass political protest.](https://journals.sagepub.com/doi/full/10.1177/0010414020919902) Online first in *Comparative Political Studies*
 
 Dahlum, S. (2019). [Students in the streets: education and nonviolent protest.](https://journals.sagepub.com/doi/full/10.1177/0010414018758761?casa_token=AM7LJG5UpRoAAAAA%3AMYqHYQOiUQHWf1Iu_JhfULltokBsuSMCQqIhuxYAH2ZzweQymYb8upFjK8hr5h2f8eNvJIA6_Y1qCg) *Comparative Political Studies*, 52(2), 277-309.
 
@@ -24,13 +25,13 @@ Dahlum, S., Knutsen, C. H., & Wig, T. (2019). [Who revolts? Empirically revisiti
 
 Lührmann, A., Mechkova, V., Dahlum, S., Maxwell, L., Olin, M., Petrarca, C. S., Sigman, R., Wilson, M. & Lindberg, S. I. (2018). [State of the world 2017: autocratization and exclusion?](https://www.tandfonline.com/doi/full/10.1080/13510347.2018.1479693) *Democratization*, 25(8), 1321-1340. (open access)
 
-Dahlum, Sirianne and Carl Henrik Knutsen. "Do Democracies Provide Better Education? Revisiting the Democracy–Human Capital Link" (2018). *World Development* 94(1): 186-199.
+Dahlum, S. and C.H. Knutsen (2018). [Do Democracies Provide Better Education? Revisiting the Democracy–Human Capital Link](https://www.sciencedirect.com/science/article/abs/pii/S0305750X17300037). *World Development* 94(1): 186-199.
 
-Dahlum, Sirianne and Tore Wig (2018). “Educating Demonstrators: Education and Mass Protest in Africa”,  forthcoming in *Journal of Conflict Resolution*, DOI: 10.1177/0022002717721394. 
+Dahlum, S., & Wig, T. (2019). [Educating demonstrators: Education and mass protest in Africa](https://journals.sagepub.com/doi/full/10.1177/0022002717721394). *Journal of Conflict Resolution*, 63(1), 3-30. 
 
-Dahlum, Sirianne and Carl Henrik Knutsen (2017). "What Counts as Evidence? Panel Data and the Empirical Evaluation of Revised Modernization Theory",  *British Journal of Political Science*. 47(2): 473-478.
+Dahlum, S. and Knutsen, C.H. (2017). [What Counts as Evidence? Panel Data and the Empirical Evaluation of Revised Modernization Theory](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/what-counts-as-evidence-panel-data-and-the-empirical-evaluation-of-revised-modernization-theory/C671918F50E383543A6A6390BE4AFD97),  *British Journal of Political Science*. 47(2): 473-478.
 
-Dahlum, Sirianne and Carl Henrik Knutsen (2017). "Democracy by demand? Reinvestigating the effect of self-expression values on political regime type",  *British Journal of Political Science*. 47(2): 437-461.
+Dahlum, S. and Knutsen, C.H. (2017). [Democracy by demand? Reinvestigating the effect of self-expression values on political regime type](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/democracy-by-demand-reinvestigating-the-effect-of-selfexpression-values-on-political-regime-type/0CF38782E076973B4D283DFB1C18F429),  *British Journal of Political Science*. 47(2): 437-461.
 
 <br>
 
