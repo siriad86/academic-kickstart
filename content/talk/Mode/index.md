@@ -10,9 +10,11 @@ abstract: In many countries across the world, the struggle over democracy remain
 
 Why do some pro-democracy movements succeed, while others fail?
 
-The project Mobilizing for and against Democracy (MoDe) proposes that an answer to this important question can be found in the characteristics of the social groups that mobilize to support or oppose democracy. MoDe will through novel theory-development, an ambitious data collection effort, and a combination of statistical and case-oriented research methods offer a comprehensive picture of how democratization trajectories over the past 250 years have been shaped by the interest, capacity and interaction of the social groups involved.
-MoDe will analyze why particular social groups, for example students, land-owners, the military or industrial workers, mobilize to support or oppose a non-democratic regime. It will moreover examine how the composition of the coalitions that mobilize for or against the autocratic regime influence the likelihood of democratization; the risk of violence during the transition; the type of institutions implemented in the new regime; and the long-term prospect for democratic consolidation. Doing so, MoDe promises new knowledge regarding when democratization efforts succeed or fail.
+This project proposes that one answer to this important question can be found in the characteristics of the social-group coalitions that mobilize to support or oppose democracy. Mobilizing for and against Democracy (MoDe) will — through novel theory-development, an ambitious data collection, and a combination of state of the art statistical and qualitative research — offer a comprehensive picture of how democratization trajectories have been shaped by the interest, capacity and interaction of the social groups involved – from the French revolution to the present.
 
+The focus on social groups is not novel: many scholars note how regime preferences are shaped by social groups’ standing in the economy. Yet, in lieu of comprehensive data, these conjectures have been tested with imperfect, macro-economic proxies. In addition, few studies have looked beyond economic interests to consider a broader range of groups, such as the church, students, military or ethnic groups – thereby potentially downplaying the role of values and ideas, such as nationalism, liberalism, or religious conservatism in shaping democratization trajectories.
+
+An actor-oriented approach to democratization will offer new and valuable insights, not only on the likelihood of democratization, but also for understanding the risk of violence during democratic transitions; the type of institutions implemented in the post-transition regime; and the long-term prospect for democratic consolidation.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -27,7 +29,7 @@ authors: []
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
