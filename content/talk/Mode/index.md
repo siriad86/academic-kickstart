@@ -11,7 +11,8 @@ address:
   postcode: '94305'
   country: United States
 
-summary: An example talk using Academic's Markdown slides feature.
+summary: Why do some pro-democracy movements succeed, while others fail? The project proposes that an answer to this important question can be found in the characteristics of the social groups that mobilize to support or oppose democracy. Collecting novel data on the social background of participants in major protest movements from the French revolution to the protest, the project will offer a comprehensive picture of how democratization trajectories over the past 250 years have been shaped by the interest, capacity and interaction of the social groups involved
+
 abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
 # Talk start and end times.
