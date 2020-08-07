@@ -38,7 +38,7 @@ Dahlum, Sirianne and Carl Henrik Knutsen (2017). "Democracy by demand? Reinvest
 
 Dahlum, Sirianne (2019). Schooling for dissent? Education, autocratic regime instability and transitions to democracy.
 
-
+<br>
 
 #### Reports and commissioned research
 
