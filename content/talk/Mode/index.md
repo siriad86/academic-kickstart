@@ -1,5 +1,5 @@
 ---
-title: Example Talk
+title: Mobilizing for and against democracy (MODE)
 event: Academic Theme Conference
 event_url: https://example.org
 
