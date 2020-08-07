@@ -14,15 +14,15 @@ subtitle = ""
 
 #### Journal articles
 
-Dahlum, Sirianne and Wig, Tore (2020). Peace above the glass ceiling: Historical female empowerment and civil conflict, 1800-2017. Forthcoming in *International Studies Quarterly*.
+Dahlum, S. and Wig, T. (2020). Peace above the glass ceiling: Historical female empowerment and civil conflict, 1800-2017. Forthcoming in *International Studies Quarterly*.
 
-Dahlum, Sirianne and Wig, Tore (2020). Chaos on Campus. Universities and mass political protest. Forthcoming in *Comparative Political Studies*.
+Dahlum, S. and Wig, T. (2020). Chaos on Campus. Universities and mass political protest. Forthcoming in *Comparative Political Studies*.
 
-Dahlum, Sirianne, Carl Henrik Knutsen and Tore Wig (2019). "Who Revolts? Empirically Revisiting the Social Origins of Democracy". Forthcoming in *Journal of Politics*. 
+Dahlum, S. (2019). [Students in the streets: education and nonviolent protest.](https://journals.sagepub.com/doi/full/10.1177/0010414018758761?casa_token=AM7LJG5UpRoAAAAA%3AMYqHYQOiUQHWf1Iu_JhfULltokBsuSMCQqIhuxYAH2ZzweQymYb8upFjK8hr5h2f8eNvJIA6_Y1qCg) *Comparative Political Studies*, 52(2), 277-309.
 
-Dahlum, Sirianne (2019). "Students in the streets: Education and nonviolent conflict", forthcoming in *Comparative Political Studies*. 
+Dahlum, S., Knutsen, C. H., & Wig, T. (2019). [Who revolts? Empirically revisiting the social origins of democracy.](https://www.journals.uchicago.edu/doi/abs/10.1086/704699) *The Journal of Politics*, 81(4), 1494-1499.
 
-Lührmann, Anna, Valeriya Mechkova, Sirianne Dahlum, Laura Maxwell, Moa Ohlin, Constanza Sanhuza Petrarca, Rachel Sigman, Matthew Wilson and Staffan I. Lindberg (2018). State of the World 2017: Autocratization and Exclusion? *Democratization*. (open access)
+Lührmann, A., Mechkova, V., Dahlum, S., Maxwell, L., Olin, M., Petrarca, C. S., Sigman, R., Wilson, M. & Lindberg, S. I. (2018). [State of the world 2017: autocratization and exclusion?](https://www.tandfonline.com/doi/full/10.1080/13510347.2018.1479693) *Democratization*, 25(8), 1321-1340. (open access)
 
 Dahlum, Sirianne and Carl Henrik Knutsen. "Do Democracies Provide Better Education? Revisiting the Democracy–Human Capital Link" (2018). *World Development* 94(1): 186-199.
 
@@ -36,7 +36,7 @@ Dahlum, Sirianne and Carl Henrik Knutsen (2017). "Democracy by demand? Reinvest
 
 #### PhD Thesis
 
-Dahlum, Sirianne (2019). [Schooling for dissent? Education, autocratic regime instability and transitions to democracy](https://github.com/siriad86/academic-kickstart/blob/655cd5236dfacb4763c3e76fd2d27242bc17f3be/content/files/Masterdoc_PHD.pdf)
+Dahlum, Sirianne (2019). [Schooling for dissent? Education, autocratic regime instability and transitions to democracy](https://www.dropbox.com/s/pl4g7e2j9k95pg0/Masterdoc_PHD.pdf?dl=0)
 
 <br>
 
