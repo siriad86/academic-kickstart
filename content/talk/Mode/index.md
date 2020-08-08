@@ -2,20 +2,17 @@
 title: Mobilizing for and against democracy (MODE)
 event_url: https://www.prio.org/Projects/Project/?x=1867
 
-
-
 summary: Why do some pro-democracy movements succeed, while others fail? The project proposes that an answer to this important question can be found in the characteristics of the social groups that mobilize to support or oppose democracy. Collecting novel data on the social background of participants in major protest movements from the French revolution to the protest, the project will offer a comprehensive picture of how democratization trajectories over the past 250 years have been shaped by the interest, capacity and interaction of the social groups involved
-
-
-
 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-#  date: "2030-06-01T13:00:00Z"
-# date_end: "2030-06-01T15:00:00Z"
-# all_day: false
+date: "2030-06-01T13:00:00Z"
+date_end: "2030-06-01T15:00:00Z"
+all_day: false
 
+# Schedule page publish date (NOT talk date).
+publishDate: "2017-01-01T00:00:00Z"
 
 authors: []
 tags: []
@@ -27,7 +24,15 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
 
-
+links:
+- icon: twitter
+  icon_pack: fab
+  name: Follow
+  url: https://twitter.com/georgecushen
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -41,10 +46,13 @@ slides: example
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
+projects:
+- internal-project
 
 # Enable math on this page?
 math: true
 ---
+
 
 **Host institution**: Peace Research Institute Oslo(PRIO)  
 
