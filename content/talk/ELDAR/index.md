@@ -1,7 +1,5 @@
 ---
-title: Example Talk
-event: Academic Theme Conference
-event_url: https://example.org
+title: The Emergence, Life, and Demise of Autocratic Regimes (ELDAR)
 
 location: Source Themes HQ
 address:
@@ -11,8 +9,8 @@ address:
   postcode: '94305'
   country: United States
 
-summary: An example talk using Academic's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: The project will investigate three aspects of autocratic politics:  Emergence of autocratic regimes, policy-making (life) in autocracies in the areas of education, infrastructure, pensions and media regulation; and finally autocratic regime breakdown.
+
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
