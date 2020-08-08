@@ -15,7 +15,6 @@ summary: Why do some pro-democracy movements succeed, while others fail? The pro
 #  date: "2030-06-01T13:00:00Z"
 # date_end: "2030-06-01T15:00:00Z"
 # all_day: false
-publishDate: "2017-01-01T00:00:00Z"
 
 
 authors: []
@@ -54,7 +53,6 @@ math: true
 **Duration**: 2020-2023  
 
 **Funder**: Norwegian Research Council (12 mill NOK, approx 1.2 mill EUR)   
-
 
 
 ##### Abstract  
