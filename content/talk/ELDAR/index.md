@@ -14,7 +14,7 @@ summary: The project will investigate three aspects of autocratic politics: 1) t
 # all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: false
+publishDate: 2020-07-01T00:00:00Z
 
 authors: []
 tags: []
