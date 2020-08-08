@@ -3,7 +3,7 @@ title: The Emergence, Life, and Demise of Autocratic Regimes (ELDAR)
 
 
 
-summary: The project will investigate three aspects of autocratic politics: 1) the emergence of autocratic regimes; 2) policy-making (“life”) in autocracies in the areas of education, infrastructure, pensions and media regulation; 3) autocratic regime breakdown.
+summary: The project will investigate three aspects of autocratic politics:  Emergence of autocratic regimes, policy-making ("life") in autocracies in the areas of education, infrastructure, pensions and media regulation; and finally autocratic regime breakdown.
 
 
 
