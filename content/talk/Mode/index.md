@@ -15,7 +15,7 @@ abstract: "In many countries across the world, the struggle over democracy remai
 # all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: false
+publishDate: ""
 
 authors: []
 tags: []
@@ -41,8 +41,6 @@ slides: example
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-- internal-project
 
 # Enable math on this page?
 math: true
