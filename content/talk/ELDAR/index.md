@@ -9,7 +9,7 @@ address:
   postcode: '94305'
   country: United States
 
-summary: The project will investigate three aspects of autocratic politics:  Emergence of autocratic regimes, policy-making (life) in autocracies in the areas of education, infrastructure, pensions and media regulation; and finally autocratic regime breakdown.
+summary: test.
 
 
 # Talk start and end times.
