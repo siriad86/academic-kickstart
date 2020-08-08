@@ -14,8 +14,6 @@ abstract: "In many countries across the world, the struggle over democracy remai
 # date_end: "2030-06-01T15:00:00Z"
 # all_day: false
 
-# Schedule page publish date (NOT talk date).
-publishDate: ""
 
 authors: []
 tags: []
