@@ -9,7 +9,7 @@ address:
   postcode: '94305'
   country: United States
 
-summary: test.
+summary: Why do some pro-democracy movements succeed, while others fail? The project proposes that an answer to this important question can be found in the characteristics of the social groups that mobilize to support or oppose democracy. Collecting novel data on the social background of participants in major protest movements from the French revolution to the present, the project will offer a comprehensive picture of how democratization trajectories over the past 250 years have been shaped by the interest, capacity and interaction of the social groups involved.
 
 
 # Talk start and end times.
