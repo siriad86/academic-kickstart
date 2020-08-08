@@ -8,7 +8,7 @@ summary: Why do some pro-democracy movements succeed, while others fail? The pro
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: ""
+date: false
 date_end: ""
 all_day: false
 
