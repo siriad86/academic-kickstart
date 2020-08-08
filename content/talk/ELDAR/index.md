@@ -55,7 +55,6 @@ math: true
 
 **Funder**: European Research Council (ERC) Consolidator Grant (2 mill EUR)  
 
-
 ##### Abstract  
 ELDAR will investigate three aspects of autocratic politics: 1) the emergence of autocratic regimes; 2) policy-making (“life”) in autocracies in the areas of education, infrastructure, pensions and media regulation; 3) autocratic regime breakdown. ELDAR offers a comprehensive perspective, highlighting the interconnections between these three aspects – for example, the particular policies chosen may mitigate or exacerbate specific risks to the regime – and studying them jointly in one framework. ELDAR will address the preferences and capacities of vital actors in autocratic politics – the leader, regime support groups, and mobilized opposition groups. Special attention will be directed towards identifying and linking the different actors entering support and opposition coalitions to constituent social groups (e.g., industrial workers and landowners). Team members will also study the specific, and diverse, institutions that underpin autocracies, such as characteristics of regime parties or legislative elections. In extension, ELDAR will explicitly model – theoretically and empirically – how support- and opposition groups and institutions interact in affecting regime change and policy making in autocracies.
 
