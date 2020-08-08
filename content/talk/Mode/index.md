@@ -1,6 +1,5 @@
 ---
 title: Mobilizing for and against democracy (MODE)
-event: Academic Theme Conference
 event_url: https://example.org
 
 
@@ -16,7 +15,7 @@ abstract: "In many countries across the world, the struggle over democracy remai
 # all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
+# publishDate: "2017-01-01T00:00:00Z"
 
 authors: []
 tags: []
@@ -28,15 +27,7 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
 
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
+
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
