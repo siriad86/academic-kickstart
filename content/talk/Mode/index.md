@@ -1,6 +1,6 @@
 ---
 title: Mobilizing for and against democracy (MODE)
-event_url: https://example.org
+event_url: https://www.prio.org/Projects/Project/?x=1867
 
 
 
@@ -10,12 +10,12 @@ abstract: "In many countries across the world, the struggle over democracy remai
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-# date: "2030-06-01T13:00:00Z"
+#  date: "2030-06-01T13:00:00Z"
 # date_end: "2030-06-01T15:00:00Z"
 # all_day: false
 
 # Schedule page publish date (NOT talk date).
-# publishDate: "2017-01-01T00:00:00Z"
+publishDate: false
 
 authors: []
 tags: []
