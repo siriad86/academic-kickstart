@@ -3,9 +3,9 @@ title: The Emergence, Life, and Demise of Autocratic Regimes (ELDAR)
 
 
 
-summary: Why do some pro-democracy movements succeed, while others fail? The project proposes that an answer to this important question can be found in the characteristics of the social groups that mobilize to support or oppose democracy. Collecting novel data on the social background of participants in major protest movements from the French revolution to the protest, the project will offer a comprehensive picture of how democratization trajectories over the past 250 years have been shaped by the interest, capacity and interaction of the social groups involved
+summary: The project will investigate three aspects of autocratic politics: 1) the emergence of autocratic regimes; 2) policy-making (“life”) in autocracies in the areas of education, infrastructure, pensions and media regulation; 3) autocratic regime breakdown.
 
-abstract: "In many countries across the world, the struggle over democracy remains a real and pressing concern. Yet, whereas some pro-democracy movements have been successful in prompting democratization, others have been violently shut down by dictators who successfully clung to power. Some movements that initially prompted real democratic gains have later seen these reversed. Why do some pro-democracy movements succeed, while others fail? This project proposes that one answer to this important question can be found in the characteristics of the social-group coalitions that mobilize to support or oppose democracy. Mobilizing for and against Democracy (MoDe) will — through novel theory-development, an ambitious data collection, and a combination of state of the art statistical and qualitative research — offer a comprehensive picture of how democratization trajectories have been shaped by the interest, capacity and interaction of the social groups involved – from the French revolution to the present. The focus on social groups is not novel: many scholars note how regime preferences are shaped by social groups’ standing in the economy. Yet, in lieu of comprehensive data, these conjectures have been tested with imperfect, macro-economic proxies. In addition, few studies have looked beyond economic interests to consider a broader range of groups, such as the church, students, military or ethnic groups – thereby potentially downplaying the role of values and ideas, such as nationalism, liberalism, or religious conservatism in shaping democratization trajectories. An actor-oriented approach to democratization will offer new and valuable insights, not only on the likelihood of democratization, but also for understanding the risk of violence during democratic transitions; the type of institutions implemented in the post-transition regime; and the long-term prospect for democratic consolidation."
+
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -46,3 +46,17 @@ projects:
 # Enable math on this page?
 math: true
 ---
+
+**Host institution**: University of Oslo
+
+**PI**: Carl Henrik Knutsen
+
+**Duration**: 2020-2023  
+
+**Funder**: European Research Council (ERC) Consolidator Grant (2 mill EUR)  
+<br>
+
+##### Abstract  
+ELDAR will investigate three aspects of autocratic politics: 1) the emergence of autocratic regimes; 2) policy-making (“life”) in autocracies in the areas of education, infrastructure, pensions and media regulation; 3) autocratic regime breakdown. ELDAR offers a comprehensive perspective, highlighting the interconnections between these three aspects – for example, the particular policies chosen may mitigate or exacerbate specific risks to the regime – and studying them jointly in one framework. ELDAR will address the preferences and capacities of vital actors in autocratic politics – the leader, regime support groups, and mobilized opposition groups. Special attention will be directed towards identifying and linking the different actors entering support and opposition coalitions to constituent social groups (e.g., industrial workers and landowners). Team members will also study the specific, and diverse, institutions that underpin autocracies, such as characteristics of regime parties or legislative elections. In extension, ELDAR will explicitly model – theoretically and empirically – how support- and opposition groups and institutions interact in affecting regime change and policy making in autocracies.
+
+Examples of more specific questions include: Are autocracies less willing to use the education system for ideological indoctrination if the regime tightly controls the media environment? Are autocracies less likely to break down if they provide generous special pensions to military officers? To investigate such questions empirically, ELDAR will collect data, with global coverage and long time-series, on the numbers, social identity and other features of groups that support and oppose regimes. These efforts yield unprecedented opportunities for large-n studies of autocratic emergence and demise. Three other datasets, on education systems, buildings, and pensions, will also enable pioneering empirical studies on core policy areas in autocracies.
