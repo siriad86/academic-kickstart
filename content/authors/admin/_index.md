@@ -10,12 +10,15 @@ authors:
 superuser: true
 
 # Role/position
+role: Associate Professor in Political Science
 role: Senior Researcher
 
 # Organizations/Affiliations
 organizations:
+- name: University of Oslo
+  url: "https://www.uio.no/"
 - name: Peace Research Institute Oslo (PRIO) 
-  url: ""
+  url: "https://www.prio.org/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a Senior Researcher at the Peace Research Institute Oslo (PRIO).  Prior to this, I was a Postdoctoral Fellow at the Belfer Center, Harvard Kennedy School and a Postdoctoral Fellow at the  Varieties of Democracy Institute (V-Dem). I have also been a research fellow associated with the project Disentangling the Economic Effects of Political Institutions (DEEPI) at the University of Oslo. 
