@@ -5,7 +5,7 @@
 
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 50 # Order that this section will appear.
 
 title = "Other writings"
@@ -21,7 +21,7 @@ subtitle = ""
 
 2019. Dahlum, Sirianne. “Demokrati til salgs: Kan politiske ledere slippe unna med å bryte demokratiske prinsipper?» [Democracy for sale: Can political leaders get away with violating democratic principles?], Article for Agenda Magasin, 28 September
 
- 2019. Dahlum, Sirianne, Carl Henrik Knutsen and Tore Wig. We checked 100 years of protests in 150 countries. Here’s what we learned about the working class and democracy. Blog post for Washington Post’s Monkey Cage blog, October 24
+2019. Dahlum, Sirianne, Carl Henrik Knutsen and Tore Wig. We checked 100 years of protests in 150 countries. Here’s what we learned about the working class and democracy. Blog post for Washington Post’s Monkey Cage blog, October 24
 
 2019. Dahlum, Sirianne “Den usynlig motbakken: Nye innsikter om normene som hemmer kvinners karriereløp». (The Invisible Obstacles for Women). Article in Agenda Magazine., May 15
 
