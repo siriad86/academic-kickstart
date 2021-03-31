@@ -11,7 +11,6 @@ superuser: true
 
 # Role/position
 role: Associate Professor in Political Science
-role: Senior Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -21,7 +20,7 @@ organizations:
   url: "https://www.prio.org/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm an Associate Professor in Political Science at the University of Oslo, and a Senior Researcher at the Peace Research Institute Oslo (PRIO).  Prior to this, I was a Postdoctoral Fellow at the Belfer Center, Harvard Kennedy School and a Postdoctoral Fellow at the  Varieties of Democracy Institute (V-Dem). 
+bio:   Prior to this, I was a Postdoctoral Fellow at the Belfer Center, Harvard Kennedy School and a Postdoctoral Fellow at the  Varieties of Democracy Institute (V-Dem). 
 
 interests:
 - Democratization and autocratization
@@ -74,6 +73,6 @@ user_groups:
 - Visitors
 ---
 
-I am a Senior Researcher at the Peace Research Institute Oslo (PRIO).  Prior to this, I was a Postdoctoral Fellow at the Belfer Center, Harvard Kennedy School and a Postdoctoral Fellow at the  Varieties of Democracy Institute (V-Dem). Much of my research explores why and when citizens develop preferences for democracy and dictatorship, and when they will challenge political leaders and regimes through actions such as nonviolent and violent mass protest. One recurrent theme in my published work is how education influences citizens' political preferences and participation in mass protest.
+I'm an Associate Professor in Political Science at the University of Oslo, and a Senior Researcher at the Peace Research Institute Oslo (PRIO).  Prior to this, I was a Postdoctoral Fellow at the Belfer Center, Harvard Kennedy School and a Postdoctoral Fellow at the  Varieties of Democracy Institute (V-Dem). Much of my research explores why and when citizens develop preferences for democracy and dictatorship, and when they will challenge political leaders and regimes through actions such as nonviolent and violent mass protest. One recurrent theme in my published work is how education influences citizens' political preferences and participation in mass protest.
 
-My work is featured in journals such as Journal of Politics, Comparative Political Studies, British Journal of Political Science, World Development and Journal of Conflict Resolution, and outlets such as the Washington Post's Monkey Cage Blog and BBC News. 
+My work is featured in journals such as Journal of Politics, Comparative Political Studies, British Journal of Political Science, World Development and Journal of Conflict Resolution, and outlets such as the Washington Post's Monkey Cage Blog and BBC News. I'm a member of the Norwegian Academy for Young Researchers. 
