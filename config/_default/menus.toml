@@ -20,7 +20,7 @@
 
 [[main]]
   name = "Media"
-  url = "#media"
+  url = "content/home/media"
   weight = 40
 
 [[main]]
