@@ -14,7 +14,7 @@ subtitle = ""
 
 #### Journal articles
 
-Dahlum, S. and Wig, T. (2020). [Peace above the glass ceiling: Historical female empowerment and civil conflict, 1800-2017].(https://academic.oup.com/isq/article-abstract/64/4/879/5908073) International Studies Quarterly*, 64(4), 879–893
+Dahlum, S. and Wig, T. (2020). [Peace above the glass ceiling: Historical female empowerment and civil conflict, 1800-2017].(https://academic.oup.com/isq/article-abstract/64/4/879/5908073) *International Studies Quarterly*, 64(4), 879–893
 
 Dahlum, S. and Wig, T. (2020). [Chaos on Campus. Universities and mass political protest.](https://journals.sagepub.com/doi/full/10.1177/0010414020919902) *Comparative Political Studies*, 54(1), 3-32
 
