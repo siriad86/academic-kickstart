@@ -15,12 +15,12 @@
 
 [[main]]
   name = "Projects"
-  url = "#content/project"
+  url = "project/"
   weight = 30
 
 [[main]]
   name = "Media"
-  url = "content/home/media.md"
+  url = "#media"
   weight = 40
 
 [[main]]
