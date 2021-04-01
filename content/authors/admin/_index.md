@@ -20,7 +20,7 @@ organizations:
   url: "https://www.prio.org/"
 
 # Short bio (displayed in user profile at end of posts)
-bio:   Prior to this, I was a Postdoctoral Fellow at the Belfer Center, Harvard Kennedy School and a Postdoctoral Fellow at the  Varieties of Democracy Institute (V-Dem). 
+
 
 interests:
 - Democratization and autocratization
