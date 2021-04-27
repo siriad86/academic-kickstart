@@ -73,7 +73,9 @@ user_groups:
 - Visitors
 ---
 
-I'm an Associate Professor in Political Science at the University of Oslo, and a Senior Researcher at the Peace Research Institute Oslo (PRIO).  Prior to this, I was a Postdoctoral Fellow at the Belfer Center, Harvard Kennedy School and a Postdoctoral Fellow at the  Varieties of Democracy Institute (V-Dem). I'm leading the project "When will citizens defend democracy? (DefDem)", funded by a Young Research Talent grant and the project "Assessing the Norwegian Democracy" and the project "An assessment of the Norwegian Democracy", funded by the Norwegian Ministry of Local Government and Regional Development.
+I'm an Associate Professor in Political Science at the University of Oslo, and a Senior Researcher at the Peace Research Institute Oslo (PRIO).  Prior to this, I was a Postdoctoral Fellow at the Belfer Center, Harvard Kennedy School and a Postdoctoral Fellow at the  Varieties of Democracy Institute (V-Dem). 
+
+I'm leading the project "When will citizens defend democracy? (DefDem)", funded by a Young Research Talent grant from Norwegian Research Council and an evaluation of the Norwegian democracy, commissioned by the Norwegian Ministry of Local Government and Regional Development.
 
 Much of my research explores why and when citizens develop preferences for democracy and dictatorship, and when they will challenge political leaders and regimes through actions such as nonviolent and violent mass protest. One recurrent theme in my published work is how education influences citizens' political preferences and participation in mass protest.
 
