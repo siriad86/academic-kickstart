@@ -14,6 +14,10 @@ subtitle = ""
 
 #### Journal articles
 
+### Mass protest 
+
+Dahlum, S., Pinckney, J., & Wig, T. (2023). [Moral Logics of Support for Nonviolent Resistance: Evidence From a Cross-National Survey Experiment.] (https://doi-org.ezproxy.uio.no/10.1177/00104140221100198) *Comparative Political Studies*, 56(3), 326-362.
+
 Dahlum, S. and Wig, T. (2020). [Peace above the glass ceiling: Historical female empowerment and civil conflict, 1800-2017.](https://academic.oup.com/isq/article-abstract/64/4/879/5908073) *International Studies Quarterly*, 64(4), 879–893
 
 Dahlum, S. and Wig, T. (2020). [Chaos on Campus. Universities and mass political protest.](https://journals.sagepub.com/doi/full/10.1177/0010414020919902) *Comparative Political Studies*, 54(1), 3-32
@@ -33,6 +37,8 @@ Dahlum, S. and Knutsen, C.H. (2017). [What Counts as Evidence? Panel Data and th
 Dahlum, S. and Knutsen, C.H. (2017). [Democracy by demand? Reinvestigating the effect of self-expression values on political regime type](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/democracy-by-demand-reinvestigating-the-effect-of-selfexpression-values-on-political-regime-type/0CF38782E076973B4D283DFB1C18F429),  *British Journal of Political Science*. 47(2): 437-461.
 
 <br>
+
+
 
 #### PhD Thesis
 
