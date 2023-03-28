@@ -18,7 +18,7 @@ subtitle = ""
 
 Dahlum, S., Pinckney, J., & Wig, T. (2023). [Moral Logics of Support for Nonviolent Resistance: Evidence From a Cross-National Survey Experiment.](https://journals.sagepub.com/doi/10.1177/00104140221100198) *Comparative Political Studies*, 56(3), 326-362.
 
-Dahlum, S. (2023). [Joining forces: Social coalitions and democratic revolutions.] (https://journals.sagepub.com/doi/full/10.1177/00223433221138614) *Journal of Peace Research*, 60(1), 42-57.
+Dahlum, S. (2023). [Joining forces: Social coalitions and democratic revolutions.](https://journals.sagepub.com/doi/full/10.1177/00223433221138614) *Journal of Peace Research*, 60(1), 42-57.
 
 Dahlum, S. and Wig, T. (2020). [Chaos on Campus. Universities and mass political protest.](https://journals.sagepub.com/doi/full/10.1177/0010414020919902) *Comparative Political Studies*, 54(1), 3-32
 
