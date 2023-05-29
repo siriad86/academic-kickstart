@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Associate Professor in Political Science
+role: Professor in Political Science
 
 # Organizations/Affiliations
 organizations:
@@ -73,7 +73,7 @@ user_groups:
 - Visitors
 ---
 
-I'm an Associate Professor in Political Science at the University of Oslo, and a Senior Researcher at the Peace Research Institute Oslo (PRIO).  Prior to this, I was a Postdoctoral Fellow at the Belfer Center, Harvard Kennedy School and a Postdoctoral Fellow at the  Varieties of Democracy Institute (V-Dem). 
+I'm a Professor in Political Science at the University of Oslo, and a Senior Researcher at the Peace Research Institute Oslo (PRIO).  Prior to this, I was a Postdoctoral Fellow at the Belfer Center, Harvard Kennedy School and a Postdoctoral Fellow at the  Varieties of Democracy Institute (V-Dem). 
 
 I'm leading the project "When will citizens defend democracy? (DefDem)", funded by a Young Research Talent grant from Norwegian Research Council and an evaluation of the Norwegian democracy, commissioned by the Norwegian Ministry of Local Government and Regional Development.
 
